@@ -1,0 +1,14 @@
+{
+	"album": [
+	  { "id": 1, "title": "Album 1" },
+	  { "id": 2, "title": "Album 2" },
+	  { "id": 3, "title": "Album 3" }
+	],
+	"photo": [
+	  { "id": 1, "description": "Description de la photo 1", "albumId": 1 },
+	  { "id": 2, "description": "Description de la photo 2", "albumId": 1 }
+	],
+	"user": {
+	  "name": "anthony"
+	}
+  }
